@@ -13,7 +13,7 @@ This project was built as part of my practice to improve my **Front-End Developm
 
 ## 📸 Website Preview
 
-<img width="100%" alt="website preview" src="./img/priview.PNG">
+<img width="100%" alt="website preview" src="./img/preview.png>
 
 ---
 
