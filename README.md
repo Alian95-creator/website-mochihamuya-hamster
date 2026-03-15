@@ -4,10 +4,11 @@ A simple and cute landing page website about **Mochihamuya Hamster**.
 This project was built as part of my practice to improve my **Front-End Development skills**, focusing on layout, responsive design, and clean UI structure.
 
 ---
+## 🚀 Live Website
 
-## 🌐 Live Demo
+You can visit the website here:
 
-🔗 https://alian95-creator.github.io/website-mochihamuya-hamster/
+https://alian95-creator.github.io/website-mochihamuya-hamster/
 
 ---
 
